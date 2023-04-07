@@ -1,0 +1,39 @@
+.container_user{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.box_container_user{
+    flex-direction: column;
+    margin-left: 64px;
+    width: 35%;
+}
+
+.box_container_user h1{
+    margin-top: 56px;
+    font-family: Nunito;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 65px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.box_container_user h2{
+    margin-top: 40px;
+    font-family: Nunito;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+    border-left: 5px solid #018762;
+    padding-left: 15px;
+}
+
+.image_container_user img{
+    width: 85%;
+    margin: 64px 64px 0px 0px;
+}
+
